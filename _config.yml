@@ -65,8 +65,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 모두의 행사, 대관 및 예약대행 솔루션
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 모두의 행사
+        sub_title: 대관 및 예약대행 솔루션
+        https://dunowljj.github.io/resume/
         link_text: 프로젝트 github 주소 (eg. https://github.com/dunowljj/mohang_v3)
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
