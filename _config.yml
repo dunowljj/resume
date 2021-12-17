@@ -66,7 +66,7 @@ content:
     content:
       - layout: left
         title: 모두의 행사
-        https://dunowljj.github.io/resume/
+        link : https://dunowljj.github.io/resume/
         link_text: 프로젝트 github 주소 (eg. https://github.com/dunowljj/mohang_v3)
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
