@@ -78,7 +78,9 @@ content:
         quote: 대관 및 예약대행 솔루션
           
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Spring Framework, Javascript, JQuery, Mybatis, HTML, CSS 등 사용 |
+          일반회원 관련 기능구현 |
+          예약 및 결제 페이지, 예약 확인 페이지, 관심 행사 페이지, 참가한 행사 페이지, 리뷰 작성 및 수정 페이지
   # - title: Experience
   #   layout: list
     # content:
@@ -102,8 +104,6 @@ content:
         quote: >
           프로젝트 기반의 Spring Cloud 개발자 양성과정 223기
         description: | # this will include new lines to allow paragraphs
-          일반회원 관련 기능 구현 |
-          예약 및 결제 페이지, 예약 확인 페이지, 관심 행사 페이지, 참가한 행사 페이지, 리뷰 작성 및 수정 페이지
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
