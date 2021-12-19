@@ -95,6 +95,9 @@ content:
           - Spring Framework, restfulAPI를 이용한 프로젝트 진행
           - Spring Boot를 이용한 CRUD
           - AWS 인프라 사용, docker를 통한 MSA이해 및 배포
+  - title: Experience
+    layout: list
+    content:
       - layout: left
         title: 다양한 교육현장 경험
         sub_title: 체육교육전공자
@@ -115,10 +118,6 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 체력도 실력이라는 말을 자주 들었습니다. 체육전공자인만큼 건강에 관심이 많으며, 꾸준한 운동을 통해 체력을 유지하고 있습니다.
-
-  # - title: Experience
-  #   layout: list
-  #   content:
       
       
 # Footer
