@@ -90,7 +90,6 @@ content:
         quote: >
           프로젝트 기반의 Spring Cloud 개발자 양성과정 223기
         description: |
-        교육내용
           - java 문법 기초, 데이터베이스, HTML/CSS/Javascript/JQuery
           - Servlet/JSP, model1, model2를 이용한 CRUD 
           - Spring Framework, restfulAPI를 이용한 프로젝트 진행
