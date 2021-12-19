@@ -95,6 +95,7 @@ content:
           - Spring Framework, restfulAPI를 이용한 프로젝트 진행
           - Spring Boot를 이용한 CRUD
           - aws 인프라 사용, docker를 통한 MSA이해 및 배포
+    content:
       - layout: left
           title: 다양한 교육현장 경험
           sub_title: 체육교육전공자
