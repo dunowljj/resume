@@ -95,7 +95,7 @@ content:
           - Servlet/JSP, model1, model2를 이용한 CRUD 
           - Spring Framework, restfulAPI를 이용한 프로젝트 진행
           - Spring Boot를 이용한 CRUD
-          - aws 인프라 사용, docker를 통한 MSA이해와 배포
+          - aws 인프라 사용, docker를 통한 MSA이해 및 배포
   - title: Experience
     layout: list
     content:
