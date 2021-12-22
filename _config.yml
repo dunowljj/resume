@@ -16,7 +16,7 @@ email: uuufg3322@gmail.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 ## Social links
 #twitter_username: jekyllrb
@@ -52,9 +52,10 @@ github_username:  dunowljj
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  어느곳에 던져지더라도 능력을 펼칠 수 있는 잡초같은 개발자가 되고 싶습니다. 그러기 위해 기초를 다지면서 좋은 학습습관을 가지기 위한 공부를 하고 있으며, 매일 배움을 실천하고 기록하기 위해 1일 1커밋을 하고 있습니다.
-  체력도 실력이라는 말을 자주 들었습니다. 체육전공자인만큼 건강에 관심이 많으며, 꾸준한 운동을 통해 체력을 유지하고 있습니다.
-      
+  기초를 다지면서 **좋은 학습습관**을 가지기 위한 공부를 하고 있으며, 매일 배움을 실천하고 기록하기 위해 최근에 1일 1커밋을 시작했습니다.
+  **체력**도 실력이라는 말을 자주 들었습니다. 체육전공자인만큼 건강에 관심이 많으며, 꾸준한 운동을 통해 체력을 유지하고 있습니다.
+  학부생 시절부터 지식을 **공유**하고 가르치는 것을 즐거워했습니다. 조직과 함께 성장하는 **시너지**를 갈구합니다.
+
 # ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
