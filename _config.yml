@@ -53,8 +53,8 @@ github_username:  dunowljj
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   기초를 다지면서 **좋은 학습습관**을 가지기 위한 공부를 하고 있으며, 매일 배움을 실천하고 기록하기 위해 최근에 **1일 1커밋**을 시작했습니다.
-  **체력**도 실력이라는 말을 자주 들었습니다. 체육전공자인만큼 건강에 관심이 많으며, **꾸준한 운동**을 통해 체력을 유지하고 있습니다.
-  학부생 시절부터 지식을 **공유**하고 가르치는 것을 즐거워했습니다. 조직과 **함께 성장**하는 시너지 효과를 갈구합니다.
+  **체력**도 실력이라는 말을 자주 들었습니다. 체육 관련 전공자인 만큼 건강에 관심이 많으며, **꾸준한 운동**을 통해 체력을 유지하고 있습니다.
+  사범대학 소속으로 학부생 시절부터 **지식을 공유**하는 것을 즐거워했습니다. 조직과 **함께 성장**하는 시너지 효과에 대해 항상 고민합니다.
 
 # ![alt text](/images/landscape-trees.jpg "Trees")
 
@@ -85,6 +85,20 @@ content:
     layout: list
     content:
       - layout: top-left
+        title: 구름톤 트레이닝 풀스택 1기
+        link: https://kdt.goorm.io/
+        link_text: 구름톤 트레이닝
+        caption: 2023.05.22~ 진행 중
+        quote: >
+          프로젝트 기반의 Spring Cloud 개발자 양성과정 223기
+        description: |
+          - HTML/CSS 기초
+          - React Todo App
+          - 이펙티브 자바 학습
+          - Spring Boot 및 db 접근 기술 학습
+          - docker, kubernetes, aws
+          - 기업 연계 프로젝트(예정)
+      - layout: top-left
         title: KOSTA EDU 국비교육
         link : https://edu.kosta.or.kr/
         link_text: 한국소프트웨어기술진흥협회
@@ -101,8 +115,18 @@ content:
     layout: list
     content:
       - layout: left
+        title: 이펙티브 자바 스터디
+        sub_title: 2022.10.01 ~ 2023.03.01
+        link : https://github.com/java-piledrivers/effective-java
+        link_text : organization url
+        quote: 완독 스터디
+        description: |
+          - 매주 5개의 아이템을 선정해 돌아가면서 정리 및 발표 후에 질의 응답
+          - 꾸준히 완독을 목표로 진행
+
+      - layout: left
         title: 다양한 교육현장 경험
-        sub_title: 체육교육전공자
+        sub_title: 체육교육전공
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
